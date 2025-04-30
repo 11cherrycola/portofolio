@@ -213,7 +213,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-semibold">Telepon</h4>
-                      <p>+62 812 3456 7890</p>
+                      <p>+62 8127 1740 827</p>
                     </div>
                   </div>
 
@@ -236,7 +236,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-semibold">Email</h4>
-                      <p>hello@namadomain.com</p>
+                      <p>ivyyasmin.ivy@gmail.com</p>
                     </div>
                   </div>
 
@@ -259,7 +259,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-semibold">Lokasi</h4>
-                      <p>Jakarta, Indonesia</p>
+                      <p>bandung, Indonesia</p>
                     </div>
                   </div>
                 </div>
