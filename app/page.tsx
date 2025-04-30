@@ -111,7 +111,7 @@ export default function Home() {
             </div>
 
             <div>
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">Tentang Saya</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">Tentang Sayaa</h2>
               <p className="text-lg text-gray-600 mb-4">
                 Saya adalah seorang desainer grafis dan UI/UX designer dengan pengalaman lebih dari 5 tahun dalam
                 industri kreatif.
