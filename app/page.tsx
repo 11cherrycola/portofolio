@@ -20,7 +20,7 @@ export default function Home() {
         <div className="max-w-5xl mx-auto relative">
           <div className="flex flex-col items-center text-center">
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-              Halo! Saya <span className="text-yellow-300">Nama Anda</span>
+              Halo! Saya <span className="text-yellow-300">ivy cantik</span>
             </h1>
             <p className="text-xl md:text-2xl text-white mb-8 max-w-2xl">
               Desainer Grafis & UI/UX Designer yang berfokus pada pembuatan desain yang menarik dan fungsional
